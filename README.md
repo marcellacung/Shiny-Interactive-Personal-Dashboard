@@ -44,10 +44,10 @@ https://marcellacung.shinyapps.io/marcella-personal-dashboard/
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Profile Page](www/images/profile-screenshot.png)
+<img width="694" height="452" alt="image" src="https://github.com/user-attachments/assets/f035b315-26ee-4f02-bc7f-485c755b31b9" />
+<img width="694" height="452" alt="image" src="https://github.com/user-attachments/assets/a3d0e516-ce54-4621-b223-a3a082c9d474" />
 
 ### Skills Visualization
-![Skills Radar Chart](www/images/skills-radar.png)
 
 ### Data Exploration Module
 ![Data Visualization](www/images/data-viz-module.png)
