@@ -39,9 +39,7 @@ An interactive personal dashboard built with R Shiny that showcases professional
 
 ## 🚀 Live Demo
 
-[View Live Application on ShinyApps.io](https://your-username.shinyapps.io/your-app-name/)
-
-*Note: Replace with your actual ShinyApps.io URL*
+https://marcellacung.shinyapps.io/marcella-personal-dashboard/
 
 ## 📸 Screenshots
 
